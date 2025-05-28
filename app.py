@@ -16,7 +16,7 @@ except Exception as e:
 
 # Streamlit Page Configuration
 st.set_page_config(
-    page_title="Talent Scout",
+    page_title="AI Interview Coach",
     page_icon="🧊",
     layout="centered",
 )
